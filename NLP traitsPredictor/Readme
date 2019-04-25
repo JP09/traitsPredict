@@ -1,0 +1,7 @@
+Flow of scripts :
+for data processing and validation:
+featureExtraction.py -> fileProcess.py -> tweetProcess.py
+
+for model training and implementation:
+trainBuild.py -> modelRun.py
+
