@@ -2,10 +2,10 @@ import tweepy
 import re
 class fileProcess:
  	def __init__(self):
- 		self.consumer_key = 'H8C45CY0NatTOAocN3RCcpzES'
- 		self.consumer_secret = '5s30ceNxqy6tbHZeHycizH4oIhslTFmvhfJon5mUZVJLJDtEQd'
- 		self.access_key = '951112705-ZxBH1BWhUsyzZi1mYelh4OPmkWcOCau4BUeomDd9'
- 		self.access_secret = 'ukPN9spq1SJT5dexARrCUa2I1e2dnoJlvfYeqmhuCIpDC'
+ 		self.consumer_key = ''
+ 		self.consumer_secret = ''
+ 		self.access_key = ''
+ 		self.access_secret = ''
  		## selected account for testing
  		self.user = ["katyperry", "ConanOBrien", "Oprah", "jimmyfallon", "EmmaWatson", "LeoDiCaprio", "BillGates", "taylorswift13", "rihanna"]
  		self.comm = ["Padilla_Comm", "MayoClinic", "TheEconomist", "Google", "nytimes"]
